@@ -1,0 +1,123 @@
+body {
+    margin-left: 100px;
+    margin-right: auto;
+}
+
+#colors {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 5px;
+    width: 800px;
+  }
+
+  
+  #fonts {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 5px;
+    width: 800px;
+  }
+  
+  #styles {
+    border: 2px solid black;
+    padding: 20px;
+    margin: 5px;
+    width: 800px;
+  }
+
+  h1 {
+    color: black;
+  }
+  
+  .title {
+    font-weight: bold;
+    font-size:22px;
+  }
+  
+  
+  .Pro-Green {
+    background-color: rgb(149, 224, 108);
+    display: inline-block;
+    padding: 20px;
+    margin:10px;
+    text-align: center;
+    width: 200px;
+  }
+  
+  .Pro-Black {
+    background-color: rgb(0, 0, 0);
+    display: inline-block;
+    color: white;
+    padding: 20px;
+    margin:10px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .Pro-Gray {
+    background-color: gray;
+    display: inline-block;
+    color: white;
+    padding: 20px;
+    margin:10px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .Pro-Yellow {
+    background-color: rgb(195, 247, 58);
+    display: inline-block;
+    padding: 20px;
+    margin:10px;
+    width: 200px;
+    text-align: center;
+  }
+  
+  .font-1 {
+    display: inline-block;
+    padding: 10px;
+    margin:10px;
+    font-family: Arial, Helvetica, sans-serif
+  }
+  
+  .font-2 {
+    display: inline-block;
+    padding: 10px;
+    margin:10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+  }
+  
+  .font-3 {
+    display: inline-block;
+    padding: 10px;
+    margin:10px;
+    font-family: Times New Roman;
+  }
+  
+  
+  .bold {
+    font-weight: bold;
+  }
+  
+  .italic {
+    font-style: italic;
+  }
+  
+  .style-1 {
+    font-weight:700;
+    font-size: 26px;
+    font-family:Russo One, Arial, serif;
+  }
+  
+  .style-2 {
+    font-weight:500;
+    font-size: 18px;
+    font-family:Gotham Book, sans-serif;
+  }
+  
+  .style-3 {
+    font-weight:400;
+    font-size: 14px;
+    font-family:Times New Roman;
+  }
+  
